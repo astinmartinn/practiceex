@@ -25,7 +25,7 @@ SECRET_KEY = '6sfh@lv85*zbc#)_a15-o^5ofbajy2sif5eei_v)szkdq$0zau'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['onlinejobshome.herokuapp.com']
 
 
 # Application definition
